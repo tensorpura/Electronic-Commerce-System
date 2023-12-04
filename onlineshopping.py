@@ -2,7 +2,6 @@
 """
 Created on Sat Aug 28 10:15:59 2021
 
-@author: Acer
 """
 
 import pymysql
