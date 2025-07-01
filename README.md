@@ -1,3 +1,6 @@
+<img width="688" alt="Screenshot 2025-07-01 at 12 00 15 PM" src="https://github.com/user-attachments/assets/250068f9-ae88-464c-88e5-825eec4a5c6a" />![image](https://github.com/user-attachments/assets/d5cfaecc-48a0-44f7-9622-18dd23aecbde)
+
+
 The Electronic Commerce System is a platform designed for online merchandise transactions, integrating various functions such as vendor product listing and sales, buyer product browsing and purchasing, and post-sale communication between both parties. This system manages customer basic information, salesperson details, product data, purchase records, post-sale information, and customer service details. 
 
 1. It features three user roles: customer, vendor, and administrator, each with a unique frontend interface for distinct functions:
