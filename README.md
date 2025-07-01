@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/79066c50-a329-4743-a650-91556919d6f3)
+![image](https://github.com/user-attachments/assets/c88ec7b0-fdfe-4e48-91d5-fbd0693308ca)
+
 
 The Electronic Commerce System is a platform designed for online merchandise transactions, integrating various functions such as vendor product listing and sales, buyer product browsing and purchasing, and post-sale communication between both parties. This system manages customer basic information, salesperson details, product data, purchase records, post-sale information, and customer service details. 
 
